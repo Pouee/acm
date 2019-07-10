@@ -1,4 +1,5 @@
 /*
+	Sparse-table algorithm
 	FN comparator
 	ROW the size of array's row
 	COLUMN the size of array's column,log(ROW)+1 is recommanded
